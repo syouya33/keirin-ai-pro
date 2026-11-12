@@ -1,0 +1,25 @@
+name: 競輪AI 自動更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: プログラムを取得
+        uses: actions/checkout@v4
+
+      - name: Pythonを準備
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 動作確認
+        run: |
+          python -c "print('競輪AI 自動実行の準備完了')"
