@@ -1,7 +1,6075 @@
 {
-  "updated_at": "2026-11-12T22:04:13.135063+09:00",
-  "races": [],
+  "updated_at": "2026-11-12T23:29:09.359526+09:00",
+  "source": "Kenseimk/keirin-data",
+  "races": [
+    {
+      "race_id": "2520261110030001",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "橋本 祐司  青",
+          "score": "72.62",
+          "class": "A3",
+          "style": "追",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "森"
+        },
+        {
+          "number": "2",
+          "name": "柴田 昌樹  愛",
+          "score": "68.73",
+          "class": "A3",
+          "style": "追",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "布居 翼",
+          "score": "70.46",
+          "class": "A3",
+          "style": "逃",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "和歌山"
+        },
+        {
+          "number": "4",
+          "name": "佐藤 純嘉  青",
+          "score": "70.46",
+          "class": "A3",
+          "style": "追",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "森"
+        },
+        {
+          "number": "5",
+          "name": "金田 健一郎  大",
+          "score": "70.50",
+          "class": "A3",
+          "style": "追",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "阪"
+        },
+        {
+          "number": "6",
+          "name": "清水 広幸  愛",
+          "score": "62.64",
+          "class": "A3",
+          "style": "追",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "落合 豊  茨",
+          "score": "63.83",
+          "class": "A3",
+          "style": "追",
+          "line": "△1 ▲7 ◎3 ○5 ×2 注4",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "2520261110030002",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "松尾 正人  熊",
+          "score": "66.84",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "本"
+        },
+        {
+          "number": "2",
+          "name": "松本 一成  新",
+          "score": "69.63",
+          "class": "A3",
+          "style": "逃",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "潟"
+        },
+        {
+          "number": "3",
+          "name": "光畑 政志  岡",
+          "score": "68.85",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "赤星 俊光  熊",
+          "score": "65.77",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "本"
+        },
+        {
+          "number": "5",
+          "name": "檀 雄二  福",
+          "score": "68.68",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "長岡 豪  群",
+          "score": "65.34",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "馬"
+        },
+        {
+          "number": "7",
+          "name": "亀井 道佳  宮",
+          "score": "68.13",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ▲4 ×5 ◎2 ○6 △7",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "2520261110030003",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "柳澤 達也  兵",
+          "score": "66.40",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "庫"
+        },
+        {
+          "number": "2",
+          "name": "山口 直樹",
+          "score": "73.16",
+          "class": "A3",
+          "style": "逃",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "神奈川"
+        },
+        {
+          "number": "3",
+          "name": "大越 啓介  栃",
+          "score": "72.50",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "木"
+        },
+        {
+          "number": "4",
+          "name": "南 蓮",
+          "score": "68.80",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "和歌山"
+        },
+        {
+          "number": "5",
+          "name": "山崎 明寛  千",
+          "score": "67.40",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "葉"
+        },
+        {
+          "number": "6",
+          "name": "野崎 修一  栃",
+          "score": "65.68",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "木"
+        },
+        {
+          "number": "7",
+          "name": "戸ノ下 太郎  千",
+          "score": "67.88",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ◎2 ○5 ▲7 ×3 △6",
+          "pref": "葉"
+        }
+      ]
+    },
+    {
+      "race_id": "2520261110030004",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "星野 京旺  新",
+          "score": "69.72",
+          "class": "A3",
+          "style": "逃",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "潟"
+        },
+        {
+          "number": "2",
+          "name": "本馬 鎌  福",
+          "score": "75.61",
+          "class": "A3",
+          "style": "両",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "中西 勇  福",
+          "score": "75.15",
+          "class": "A3",
+          "style": "逃",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "塩川 真一郎  広",
+          "score": "75.77",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "阿部 弘  高",
+          "score": "71.16",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "知"
+        },
+        {
+          "number": "6",
+          "name": "飯田 威文  埼",
+          "score": "69.12",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "猪野 泰介  山",
+          "score": "71.20",
+          "class": "A3",
+          "style": "逃",
+          "line": "注1 △6 ×7 ◎2 ○3 ▲4",
+          "pref": "形"
+        }
+      ]
+    },
+    {
+      "race_id": "2520261110030005",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "安藤 宜明",
+          "score": "74.34",
+          "class": "A3",
+          "style": "追",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "神奈川"
+        },
+        {
+          "number": "2",
+          "name": "十文字 悠真  福",
+          "score": "75.88",
+          "class": "A3",
+          "style": "逃",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "杉山 正和  三",
+          "score": "71.61",
+          "class": "A3",
+          "style": "追",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "重"
+        },
+        {
+          "number": "4",
+          "name": "廣田 敦士  三",
+          "score": "69.40",
+          "class": "A3",
+          "style": "逃",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "重"
+        },
+        {
+          "number": "5",
+          "name": "川村 昭弘  新",
+          "score": "74.00",
+          "class": "A3",
+          "style": "追",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "潟"
+        },
+        {
+          "number": "6",
+          "name": "小林 寛弥  静",
+          "score": "67.45",
+          "class": "A3",
+          "style": "逃",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "佐藤 有輝",
+          "score": "72.82",
+          "class": "A3",
+          "style": "追",
+          "line": "注6 △1 ◎7 ○2 ×5 ▲4",
+          "pref": "神奈川"
+        }
+      ]
+    },
+    {
+      "race_id": "2520261110030006",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "井坂 泰誓  大",
+          "score": "72.00",
+          "class": "A3",
+          "style": "両",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "阪"
+        },
+        {
+          "number": "2",
+          "name": "松田 祥位  静",
+          "score": "79.77",
+          "class": "A3",
+          "style": "逃",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "高田 大輔  徳",
+          "score": "72.00",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "石貞 有基  兵",
+          "score": "71.25",
+          "class": "A3",
+          "style": "両",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "庫"
+        },
+        {
+          "number": "5",
+          "name": "山本 恵太郎  東",
+          "score": "77.70",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "京"
+        },
+        {
+          "number": "6",
+          "name": "古田 義明  三",
+          "score": "69.40",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "重"
+        },
+        {
+          "number": "7",
+          "name": "薮田 貴幸  茨",
+          "score": "71.66",
+          "class": "A3",
+          "style": "追",
+          "line": "注1 ×4 ◎6 ○2 ▲5 △7",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "2520261110030007",
+      "date": "2026-11-12",
+      "venue": "omiya",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "篠原 輝利  茨",
+          "score": "80.55",
+          "class": "A3",
+          "style": "逃",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "城"
+        },
+        {
+          "number": "2",
+          "name": "永田 吏玖  岐",
+          "score": "73.61",
+          "class": "A3",
+          "style": "逃",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "近藤 雄太  岡",
+          "score": "78.58",
+          "class": "A3",
+          "style": "逃",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "齊藤 宏樹  東",
+          "score": "75.23",
+          "class": "A3",
+          "style": "逃",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "京"
+        },
+        {
+          "number": "5",
+          "name": "渡邊 諒馬  愛",
+          "score": "79.20",
+          "class": "A3",
+          "style": "逃",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "媛"
+        },
+        {
+          "number": "6",
+          "name": "相川 巧  埼",
+          "score": "67.22",
+          "class": "A3",
+          "style": "両",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "坂井 央雅  岐",
+          "score": "80.22",
+          "class": "A3",
+          "style": "逃",
+          "line": "▲4 ◎1 注6 △7 ○2 ×5",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010001",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "武田 亮  東",
+          "score": "101.43",
+          "class": "S2",
+          "style": "逃",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "京"
+        },
+        {
+          "number": "2",
+          "name": "長谷部 翔  静",
+          "score": "97.38",
+          "class": "S2",
+          "style": "両",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "三宅 達也  岡",
+          "score": "102.64",
+          "class": "S1",
+          "style": "追",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "荒川 仁  千",
+          "score": "94.29",
+          "class": "S2",
+          "style": "逃",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "葉"
+        },
+        {
+          "number": "5",
+          "name": "小林 潤二  群",
+          "score": "99.29",
+          "class": "S2",
+          "style": "追",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "馬"
+        },
+        {
+          "number": "6",
+          "name": "福元 啓太  大",
+          "score": "93.07",
+          "class": "S2",
+          "style": "逃",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "阪"
+        },
+        {
+          "number": "7",
+          "name": "和泉 尚吾  愛",
+          "score": "100.25",
+          "class": "S2",
+          "style": "両",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "媛"
+        },
+        {
+          "number": "8",
+          "name": "佐川 翔吾  大",
+          "score": "94.15",
+          "class": "S2",
+          "style": "両",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "阪"
+        },
+        {
+          "number": "9",
+          "name": "武田 豊樹  茨",
+          "score": "103.00",
+          "class": "S1",
+          "style": "追",
+          "line": "△7 ×3 ○1 ◎9 ▲5 注4",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010002",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "渡邉 雄太  静",
+          "score": "103.96",
+          "class": "S2",
+          "style": "両",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "椎木尾 拓哉",
+          "score": "106.66",
+          "class": "S2",
+          "style": "追",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "和歌山"
+        },
+        {
+          "number": "3",
+          "name": "本郷 雄三  熊",
+          "score": "100.74",
+          "class": "S2",
+          "style": "両",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "本"
+        },
+        {
+          "number": "4",
+          "name": "立花 昌也  青",
+          "score": "97.19",
+          "class": "S2",
+          "style": "逃",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "森"
+        },
+        {
+          "number": "5",
+          "name": "伊勢崎 彰大  千",
+          "score": "98.83",
+          "class": "S2",
+          "style": "追",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "葉"
+        },
+        {
+          "number": "6",
+          "name": "小笠原 光  熊",
+          "score": "96.14",
+          "class": "S2",
+          "style": "両",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "本"
+        },
+        {
+          "number": "7",
+          "name": "徳田 匠  京",
+          "score": "99.50",
+          "class": "S2",
+          "style": "逃",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "都"
+        },
+        {
+          "number": "8",
+          "name": "吉松 直人  高",
+          "score": "96.48",
+          "class": "S2",
+          "style": "追",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "知"
+        },
+        {
+          "number": "9",
+          "name": "山崎 将幸  宮",
+          "score": "101.90",
+          "class": "S2",
+          "style": "追",
+          "line": "注6 ○3 ◎7 ×2 ▲1 △5",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010003",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "伊東 翔貴  福",
+          "score": "101.23",
+          "class": "S2",
+          "style": "逃",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "島"
+        },
+        {
+          "number": "2",
+          "name": "杉本 正隆  茨",
+          "score": "103.95",
+          "class": "S1",
+          "style": "追",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "城"
+        },
+        {
+          "number": "3",
+          "name": "原田 翔真",
+          "score": "98.38",
+          "class": "S2",
+          "style": "逃",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "和歌山"
+        },
+        {
+          "number": "4",
+          "name": "開坂 秀明  青",
+          "score": "96.74",
+          "class": "S2",
+          "style": "追",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "森"
+        },
+        {
+          "number": "5",
+          "name": "中井 太祐  奈",
+          "score": "106.15",
+          "class": "S1",
+          "style": "両",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "良"
+        },
+        {
+          "number": "6",
+          "name": "加藤 圭一",
+          "score": "0.00",
+          "class": "S2",
+          "style": "追",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "佐藤 和也  青",
+          "score": "105.95",
+          "class": "S1",
+          "style": "追",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "森"
+        },
+        {
+          "number": "8",
+          "name": "小酒 大勇  宮",
+          "score": "96.09",
+          "class": "S2",
+          "style": "追",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "崎"
+        },
+        {
+          "number": "9",
+          "name": "安倍 大成  埼",
+          "score": "101.79",
+          "class": "S2",
+          "style": "逃",
+          "line": "△1 ▲7 注4 ×9 ○2 ◎6",
+          "pref": "玉"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010004",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "久島 尚樹  宮",
+          "score": "104.20",
+          "class": "S2",
+          "style": "両",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "崎"
+        },
+        {
+          "number": "2",
+          "name": "児玉 虎之介  岐",
+          "score": "101.84",
+          "class": "S2",
+          "style": "逃",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "格清 洋介  静",
+          "score": "101.62",
+          "class": "S2",
+          "style": "逃",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "小川 将二郎  徳",
+          "score": "97.09",
+          "class": "S2",
+          "style": "逃",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "高橋 和也  愛",
+          "score": "101.59",
+          "class": "S2",
+          "style": "両",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "知"
+        },
+        {
+          "number": "6",
+          "name": "小谷 実  京",
+          "score": "94.10",
+          "class": "S2",
+          "style": "追",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "都"
+        },
+        {
+          "number": "7",
+          "name": "菊地 圭尚",
+          "score": "106.17",
+          "class": "S2",
+          "style": "追",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "北海道"
+        },
+        {
+          "number": "8",
+          "name": "古川 尚耶  栃",
+          "score": "96.24",
+          "class": "S2",
+          "style": "追",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "木"
+        },
+        {
+          "number": "9",
+          "name": "坂本 亮馬  福",
+          "score": "97.65",
+          "class": "S2",
+          "style": "追",
+          "line": "注2 ×5 ▲6 △4 ◎1 ○9",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010005",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "朝倉 佳弘  東",
+          "score": "99.00",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "京"
+        },
+        {
+          "number": "2",
+          "name": "大屋 健司  広",
+          "score": "103.40",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "不破 将登  岐",
+          "score": "97.58",
+          "class": "S2",
+          "style": "両",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "阜"
+        },
+        {
+          "number": "4",
+          "name": "前反 祐一郎  広",
+          "score": "97.39",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "高橋 広大  埼",
+          "score": "98.35",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "玉"
+        },
+        {
+          "number": "6",
+          "name": "伊藤 勝太  愛",
+          "score": "90.15",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "久米 康平  徳",
+          "score": "100.19",
+          "class": "S1",
+          "style": "両",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "島"
+        },
+        {
+          "number": "8",
+          "name": "伊東 佑晟  三",
+          "score": "93.64",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "重"
+        },
+        {
+          "number": "9",
+          "name": "川上 隆義  栃",
+          "score": "101.45",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎7 ○2 注4 ×9 ▲1 △5",
+          "pref": "木"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010006",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "友定 祐己  岡",
+          "score": "100.36",
+          "class": "S2",
+          "style": "追",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "山"
+        },
+        {
+          "number": "2",
+          "name": "福田 滉  栃",
+          "score": "98.05",
+          "class": "S2",
+          "style": "追",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "木"
+        },
+        {
+          "number": "3",
+          "name": "山本 伸一  奈",
+          "score": "107.34",
+          "class": "S2",
+          "style": "両",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "良"
+        },
+        {
+          "number": "4",
+          "name": "窪木 一茂  福",
+          "score": "96.57",
+          "class": "S2",
+          "style": "両",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "堀内 俊介",
+          "score": "102.65",
+          "class": "S2",
+          "style": "両",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "神奈川"
+        },
+        {
+          "number": "6",
+          "name": "山根 慶太  岡",
+          "score": "93.94",
+          "class": "S2",
+          "style": "逃",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "山"
+        },
+        {
+          "number": "7",
+          "name": "岸田 剛  福",
+          "score": "102.40",
+          "class": "S1",
+          "style": "逃",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "井"
+        },
+        {
+          "number": "8",
+          "name": "柿本 大貴  東",
+          "score": "95.64",
+          "class": "S2",
+          "style": "逃",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "京"
+        },
+        {
+          "number": "9",
+          "name": "佐藤 壮  千",
+          "score": "98.90",
+          "class": "S1",
+          "style": "追",
+          "line": "△6 ▲1 ○8 ◎2 注7 ×3",
+          "pref": "葉"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010007",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "湊 聖二  徳",
+          "score": "101.68",
+          "class": "S1",
+          "style": "追",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "島"
+        },
+        {
+          "number": "2",
+          "name": "川越 勇星",
+          "score": "102.57",
+          "class": "S2",
+          "style": "両",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "神奈川"
+        },
+        {
+          "number": "3",
+          "name": "松永 将  茨",
+          "score": "99.65",
+          "class": "S2",
+          "style": "追",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "城"
+        },
+        {
+          "number": "4",
+          "name": "中川 勝貴  福",
+          "score": "98.33",
+          "class": "S2",
+          "style": "追",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "井"
+        },
+        {
+          "number": "5",
+          "name": "佐々木 翔一  佐",
+          "score": "98.74",
+          "class": "S2",
+          "style": "追",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "賀"
+        },
+        {
+          "number": "6",
+          "name": "橋本 壮史  茨",
+          "score": "96.16",
+          "class": "S2",
+          "style": "逃",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "城"
+        },
+        {
+          "number": "7",
+          "name": "佐々木 雄一  福",
+          "score": "105.73",
+          "class": "S1",
+          "style": "追",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "島"
+        },
+        {
+          "number": "8",
+          "name": "岡田 泰地  栃",
+          "score": "97.40",
+          "class": "S2",
+          "style": "追",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "木"
+        },
+        {
+          "number": "9",
+          "name": "月森 亮輔  岡",
+          "score": "100.50",
+          "class": "S2",
+          "style": "両",
+          "line": "×9 注1 △5 ○6 ◎3 ▲8",
+          "pref": "山"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010008",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "伊藤 裕貴  三",
+          "score": "98.58",
+          "class": "S2",
+          "style": "両",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "重"
+        },
+        {
+          "number": "2",
+          "name": "宿口 潤平  埼",
+          "score": "100.56",
+          "class": "S2",
+          "style": "追",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "玉"
+        },
+        {
+          "number": "3",
+          "name": "太田 竜馬  徳",
+          "score": "105.41",
+          "class": "S1",
+          "style": "逃",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "下井 竜  三",
+          "score": "95.20",
+          "class": "S2",
+          "style": "逃",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "重"
+        },
+        {
+          "number": "5",
+          "name": "香川 雄介  香",
+          "score": "104.52",
+          "class": "S1",
+          "style": "追",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "川"
+        },
+        {
+          "number": "6",
+          "name": "内山 貴裕  京",
+          "score": "93.22",
+          "class": "S2",
+          "style": "追",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "都"
+        },
+        {
+          "number": "7",
+          "name": "幸田 望夢  栃",
+          "score": "98.69",
+          "class": "S2",
+          "style": "逃",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "木"
+        },
+        {
+          "number": "8",
+          "name": "大澤 雄大  埼",
+          "score": "93.66",
+          "class": "S2",
+          "style": "追",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "玉"
+        },
+        {
+          "number": "9",
+          "name": "佐々木 則幸  高",
+          "score": "101.17",
+          "class": "S2",
+          "style": "追",
+          "line": "△4 注1 ×6 ○7 ◎2 ▲8",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010009",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "中本 匠栄  熊",
+          "score": "100.66",
+          "class": "S1",
+          "style": "追",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "本"
+        },
+        {
+          "number": "2",
+          "name": "室井 健一  徳",
+          "score": "97.90",
+          "class": "S2",
+          "style": "追",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "星野 洋輝  福",
+          "score": "105.42",
+          "class": "S1",
+          "style": "追",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "三澤 優樹  福",
+          "score": "97.45",
+          "class": "S2",
+          "style": "逃",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "松岡 貴久  熊",
+          "score": "104.16",
+          "class": "S1",
+          "style": "追",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "本"
+        },
+        {
+          "number": "6",
+          "name": "森本 桂太郎  愛",
+          "score": "95.19",
+          "class": "S2",
+          "style": "逃",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "媛"
+        },
+        {
+          "number": "7",
+          "name": "佐藤 雅春  宮",
+          "score": "98.22",
+          "class": "S2",
+          "style": "追",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "城"
+        },
+        {
+          "number": "8",
+          "name": "近藤 誠二  香",
+          "score": "96.75",
+          "class": "S2",
+          "style": "追",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "川"
+        },
+        {
+          "number": "9",
+          "name": "立部 楓真  佐",
+          "score": "103.50",
+          "class": "S1",
+          "style": "逃",
+          "line": "○9 ◎5 △1 注6 ▲2 ×8",
+          "pref": "賀"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010010",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "10",
+      "players": [
+        {
+          "number": "1",
+          "name": "伊藤 信  大",
+          "score": "105.77",
+          "class": "S1",
+          "style": "逃",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "阪"
+        },
+        {
+          "number": "2",
+          "name": "松坂 洋平",
+          "score": "105.19",
+          "class": "S1",
+          "style": "両",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "神奈川"
+        },
+        {
+          "number": "3",
+          "name": "田中 誠  福",
+          "score": "101.00",
+          "class": "S1",
+          "style": "追",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "森山 智徳  熊",
+          "score": "96.63",
+          "class": "S2",
+          "style": "両",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "本"
+        },
+        {
+          "number": "5",
+          "name": "荒澤 貴史",
+          "score": "100.18",
+          "class": "S2",
+          "style": "追",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "北海道"
+        },
+        {
+          "number": "6",
+          "name": "中島 竜誠  山",
+          "score": "91.35",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "梨"
+        },
+        {
+          "number": "7",
+          "name": "日高 裕太  静",
+          "score": "102.18",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "岡"
+        },
+        {
+          "number": "8",
+          "name": "小榑 佑弥  群",
+          "score": "93.76",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "馬"
+        },
+        {
+          "number": "9",
+          "name": "三谷 政史  奈",
+          "score": "97.42",
+          "class": "S2",
+          "style": "追",
+          "line": "◎1 △9 注7 ○2 ▲5 ×4",
+          "pref": "良"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010011",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "11",
+      "players": [
+        {
+          "number": "1",
+          "name": "箱田 優樹  青",
+          "score": "102.42",
+          "class": "S2",
+          "style": "追",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "森"
+        },
+        {
+          "number": "2",
+          "name": "棚瀬 義大  岐",
+          "score": "106.00",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "片折 亮太  埼",
+          "score": "98.89",
+          "class": "S2",
+          "style": "両",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "玉"
+        },
+        {
+          "number": "4",
+          "name": "小畑 勝広  茨",
+          "score": "97.87",
+          "class": "S1",
+          "style": "逃",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "佐藤 健太  福",
+          "score": "99.25",
+          "class": "S2",
+          "style": "追",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "鶴 良生  福",
+          "score": "94.31",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "伊藤 正樹  愛",
+          "score": "100.13",
+          "class": "S2",
+          "style": "追",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "知"
+        },
+        {
+          "number": "8",
+          "name": "五十嵐 綾  福",
+          "score": "97.26",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "島"
+        },
+        {
+          "number": "9",
+          "name": "山口 富生  岐",
+          "score": "106.00",
+          "class": "S1",
+          "style": "追",
+          "line": "◎2 ○9 △7 ×8 ▲1 注4",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "2820261112010012",
+      "date": "2026-11-12",
+      "venue": "tachikawa",
+      "race_no": "12",
+      "players": [
+        {
+          "number": "1",
+          "name": "篠田 幸希  群",
+          "score": "107.65",
+          "class": "S1",
+          "style": "逃",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "馬"
+        },
+        {
+          "number": "2",
+          "name": "野田 源一  福",
+          "score": "107.66",
+          "class": "S1",
+          "style": "両",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "吉田 有希  岐",
+          "score": "106.77",
+          "class": "S1",
+          "style": "逃",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "阜"
+        },
+        {
+          "number": "4",
+          "name": "岡本 総  愛",
+          "score": "106.76",
+          "class": "S1",
+          "style": "追",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "知"
+        },
+        {
+          "number": "5",
+          "name": "小原 佑太  青",
+          "score": "107.07",
+          "class": "S1",
+          "style": "逃",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "森"
+        },
+        {
+          "number": "6",
+          "name": "大矢 崇弘  東",
+          "score": "106.25",
+          "class": "S1",
+          "style": "追",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "神田 紘輔  大",
+          "score": "108.74",
+          "class": "S1",
+          "style": "追",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "阪"
+        },
+        {
+          "number": "8",
+          "name": "岡村 潤  静",
+          "score": "106.50",
+          "class": "S1",
+          "style": "追",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "岡"
+        },
+        {
+          "number": "9",
+          "name": "高橋 築  東",
+          "score": "107.30",
+          "class": "S1",
+          "style": "両",
+          "line": "○1 ◎9 △6 注2 ▲3 ×4",
+          "pref": "京"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030001",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "湯浅 弘光  千",
+          "score": "71.25",
+          "class": "A3",
+          "style": "追",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "葉"
+        },
+        {
+          "number": "2",
+          "name": "樋口 奨平  富",
+          "score": "69.05",
+          "class": "A3",
+          "style": "追",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "山"
+        },
+        {
+          "number": "3",
+          "name": "田中 智也  静",
+          "score": "69.57",
+          "class": "A3",
+          "style": "追",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "西巻 秀太  新",
+          "score": "71.73",
+          "class": "A3",
+          "style": "追",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "潟"
+        },
+        {
+          "number": "5",
+          "name": "小塚 潤  愛",
+          "score": "67.44",
+          "class": "A3",
+          "style": "追",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "知"
+        },
+        {
+          "number": "6",
+          "name": "佐藤 裕輝  福",
+          "score": "64.00",
+          "class": "A3",
+          "style": "逃",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "島"
+        },
+        {
+          "number": "7",
+          "name": "中川 昌久  茨",
+          "score": "69.31",
+          "class": "A3",
+          "style": "追",
+          "line": "×1 △3 ◎2 ○5 ▲7 注4",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030002",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "千澤 大輔  青",
+          "score": "66.57",
+          "class": "A3",
+          "style": "追",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "森"
+        },
+        {
+          "number": "2",
+          "name": "岡嵜 浩一",
+          "score": "69.38",
+          "class": "A3",
+          "style": "追",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "神奈川"
+        },
+        {
+          "number": "3",
+          "name": "吉野 猛  愛",
+          "score": "70.12",
+          "class": "A3",
+          "style": "追",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "知"
+        },
+        {
+          "number": "4",
+          "name": "三浦 綾  宮",
+          "score": "69.70",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "岡崎 和久  奈",
+          "score": "71.33",
+          "class": "A3",
+          "style": "追",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "良"
+        },
+        {
+          "number": "6",
+          "name": "高瀬 卓  埼",
+          "score": "64.90",
+          "class": "A3",
+          "style": "追",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "須々田 大昇  青",
+          "score": "70.71",
+          "class": "A3",
+          "style": "追",
+          "line": "◎4 ○7 △1 注2 ×5 ▲3",
+          "pref": "森"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030003",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "光岡 義洋  愛",
+          "score": "71.50",
+          "class": "A3",
+          "style": "追",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "知"
+        },
+        {
+          "number": "2",
+          "name": "中村 淳  栃",
+          "score": "69.50",
+          "class": "A3",
+          "style": "追",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "木"
+        },
+        {
+          "number": "3",
+          "name": "南 大輔  京",
+          "score": "73.80",
+          "class": "A3",
+          "style": "追",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "都"
+        },
+        {
+          "number": "4",
+          "name": "竹田 慎一  富",
+          "score": "67.53",
+          "class": "A3",
+          "style": "両",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "山"
+        },
+        {
+          "number": "5",
+          "name": "永橋 武司  大",
+          "score": "69.44",
+          "class": "A3",
+          "style": "両",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "阪"
+        },
+        {
+          "number": "6",
+          "name": "長崎 達也",
+          "score": "66.87",
+          "class": "A3",
+          "style": "両",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "瀧本 匡平  愛",
+          "score": "70.76",
+          "class": "A3",
+          "style": "両",
+          "line": "○7 ◎1 ×3 ▲4 注2 △6",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030004",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "千葉 捺美  群",
+          "score": "49.89",
+          "class": "L1",
+          "style": "両",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "馬"
+        },
+        {
+          "number": "2",
+          "name": "大谷 杏奈  大",
+          "score": "46.38",
+          "class": "L1",
+          "style": "両",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "阪"
+        },
+        {
+          "number": "3",
+          "name": "佐々木 綾  東",
+          "score": "49.85",
+          "class": "L1",
+          "style": "両",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "京"
+        },
+        {
+          "number": "4",
+          "name": "國村 美留莉  山",
+          "score": "49.16",
+          "class": "L1",
+          "style": "追",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "口"
+        },
+        {
+          "number": "5",
+          "name": "中島 瞳  埼",
+          "score": "55.78",
+          "class": "L1",
+          "style": "両",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "玉"
+        },
+        {
+          "number": "6",
+          "name": "中野 咲  愛",
+          "score": "51.77",
+          "class": "L1",
+          "style": "両",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "星野 しほ  東",
+          "score": "47.95",
+          "class": "L1",
+          "style": "追",
+          "line": "△1 ◎2 ○5 ×3 注6 ▲4",
+          "pref": "京"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030005",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "中川 貴史  三",
+          "score": "82.66",
+          "class": "A1",
+          "style": "追",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "重"
+        },
+        {
+          "number": "2",
+          "name": "佐藤 清之  千",
+          "score": "79.13",
+          "class": "A2",
+          "style": "追",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "葉"
+        },
+        {
+          "number": "3",
+          "name": "西谷 岳文  京",
+          "score": "82.83",
+          "class": "A2",
+          "style": "両",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "都"
+        },
+        {
+          "number": "4",
+          "name": "川崎 健次",
+          "score": "88.25",
+          "class": "A1",
+          "style": "追",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "神奈川"
+        },
+        {
+          "number": "5",
+          "name": "井田 晶之  三",
+          "score": "83.22",
+          "class": "A2",
+          "style": "両",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "重"
+        },
+        {
+          "number": "6",
+          "name": "阿久津 浩之  東",
+          "score": "77.80",
+          "class": "A2",
+          "style": "逃",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "宮西 翼  石",
+          "score": "80.00",
+          "class": "A2",
+          "style": "両",
+          "line": "△6 ◎4 ○2 ▲5 ×1 注7",
+          "pref": "川"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030006",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "荻野 哲",
+          "score": "83.80",
+          "class": "A2",
+          "style": "追",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "神奈川"
+        },
+        {
+          "number": "2",
+          "name": "山田 隼司  岐",
+          "score": "81.91",
+          "class": "A2",
+          "style": "両",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "鮫島 康治  大",
+          "score": "85.41",
+          "class": "A2",
+          "style": "逃",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "阪"
+        },
+        {
+          "number": "4",
+          "name": "板橋 慎治  岐",
+          "score": "77.58",
+          "class": "A2",
+          "style": "追",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "阜"
+        },
+        {
+          "number": "5",
+          "name": "井上 将志  兵",
+          "score": "79.42",
+          "class": "A2",
+          "style": "両",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "庫"
+        },
+        {
+          "number": "6",
+          "name": "鈴木 裕斗  宮",
+          "score": "77.45",
+          "class": "A2",
+          "style": "両",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "城"
+        },
+        {
+          "number": "7",
+          "name": "柴田 祐也  岐",
+          "score": "82.66",
+          "class": "A2",
+          "style": "追",
+          "line": "○2 ◎7 △4 ×3 注5 ▲1",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030007",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "宮澤 晃  山",
+          "score": "80.27",
+          "class": "A2",
+          "style": "追",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "梨"
+        },
+        {
+          "number": "2",
+          "name": "末廣 快理  兵",
+          "score": "89.91",
+          "class": "A2",
+          "style": "逃",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "庫"
+        },
+        {
+          "number": "3",
+          "name": "小林 信晴  愛",
+          "score": "89.23",
+          "class": "A1",
+          "style": "追",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "知"
+        },
+        {
+          "number": "4",
+          "name": "工藤 政志  青",
+          "score": "84.30",
+          "class": "A2",
+          "style": "追",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "森"
+        },
+        {
+          "number": "5",
+          "name": "金野 俊秋  千",
+          "score": "88.45",
+          "class": "A1",
+          "style": "両",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "葉"
+        },
+        {
+          "number": "6",
+          "name": "伊藤 一貴  栃",
+          "score": "78.08",
+          "class": "A2",
+          "style": "追",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "木"
+        },
+        {
+          "number": "7",
+          "name": "橋本 英也  岐",
+          "score": "92.44",
+          "class": "A1",
+          "style": "逃",
+          "line": "○2 ◎7 ×3 △5 注4 ▲1",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030008",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "谷口 友真  大",
+          "score": "83.42",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "阪"
+        },
+        {
+          "number": "2",
+          "name": "山本 勝利  東",
+          "score": "94.22",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "京"
+        },
+        {
+          "number": "3",
+          "name": "愛敬 博之  愛",
+          "score": "88.88",
+          "class": "A1",
+          "style": "追",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "知"
+        },
+        {
+          "number": "4",
+          "name": "寺林 正秋  宮",
+          "score": "84.79",
+          "class": "A1",
+          "style": "追",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "梅山 英樹  群",
+          "score": "86.52",
+          "class": "A1",
+          "style": "追",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "馬"
+        },
+        {
+          "number": "6",
+          "name": "栗田 万生  千",
+          "score": "83.38",
+          "class": "A2",
+          "style": "逃",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "葉"
+        },
+        {
+          "number": "7",
+          "name": "篠塚 光一  兵",
+          "score": "86.39",
+          "class": "A1",
+          "style": "追",
+          "line": "◎2 ○5 ▲1 ×7 注3 △6",
+          "pref": "庫"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030009",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "高橋 奏多  大",
+          "score": "79.75",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "阪"
+        },
+        {
+          "number": "2",
+          "name": "角田 吏  福",
+          "score": "77.77",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "早川 成矢  埼",
+          "score": "73.66",
+          "class": "A3",
+          "style": "両",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "玉"
+        },
+        {
+          "number": "4",
+          "name": "村本 慎吾  静",
+          "score": "77.14",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "勝沼 遼  東",
+          "score": "78.00",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "京"
+        },
+        {
+          "number": "6",
+          "name": "櫻井 利之",
+          "score": "70.48",
+          "class": "A3",
+          "style": "両",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "林 欣司  岐",
+          "score": "72.33",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ×2 注6 ▲4 ○5 △3",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030010",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "10",
+      "players": [
+        {
+          "number": "1",
+          "name": "坂口 楓華  愛",
+          "score": "58.07",
+          "class": "L1",
+          "style": "両",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "知"
+        },
+        {
+          "number": "2",
+          "name": "戸田 瑞姫  茨",
+          "score": "53.48",
+          "class": "L1",
+          "style": "両",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "城"
+        },
+        {
+          "number": "3",
+          "name": "岡田 優歩",
+          "score": "55.00",
+          "class": "L1",
+          "style": "両",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "和歌山"
+        },
+        {
+          "number": "4",
+          "name": "宇野 紅音  岐",
+          "score": "53.33",
+          "class": "L1",
+          "style": "両",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "阜"
+        },
+        {
+          "number": "5",
+          "name": "加藤 恵  青",
+          "score": "51.77",
+          "class": "L1",
+          "style": "両",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "森"
+        },
+        {
+          "number": "6",
+          "name": "塩田 日海",
+          "score": "52.94",
+          "class": "L1",
+          "style": "追",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "大浦 彩瑛",
+          "score": "56.74",
+          "class": "L1",
+          "style": "逃",
+          "line": "▲5 ○7 ◎1 △2 ×3 注4",
+          "pref": "神奈川"
+        }
+      ]
+    },
+    {
+      "race_id": "4620261110030011",
+      "date": "2026-11-12",
+      "venue": "toyama",
+      "race_no": "11",
+      "players": [
+        {
+          "number": "1",
+          "name": "北野 武史  石",
+          "score": "93.71",
+          "class": "A1",
+          "style": "追",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "川"
+        },
+        {
+          "number": "2",
+          "name": "林 敬宏  愛",
+          "score": "92.62",
+          "class": "A1",
+          "style": "逃",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "三浦 雄大  宮",
+          "score": "92.80",
+          "class": "A1",
+          "style": "追",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "城"
+        },
+        {
+          "number": "4",
+          "name": "池田 勇人  埼",
+          "score": "92.22",
+          "class": "A1",
+          "style": "追",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "玉"
+        },
+        {
+          "number": "5",
+          "name": "疋田 力也  愛",
+          "score": "92.45",
+          "class": "A1",
+          "style": "両",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "知"
+        },
+        {
+          "number": "6",
+          "name": "真木 寛斗  愛",
+          "score": "92.00",
+          "class": "A2",
+          "style": "逃",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "吉堂 将規  奈",
+          "score": "93.23",
+          "class": "A1",
+          "style": "逃",
+          "line": "×6 ◎5 ○2 ▲1 △7 注3",
+          "pref": "良"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020001",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "寺崎 舞織  福",
+          "score": "55.11",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "井"
+        },
+        {
+          "number": "2",
+          "name": "當銘 直美  愛",
+          "score": "54.34",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "平子 結菜  三",
+          "score": "52.44",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "重"
+        },
+        {
+          "number": "4",
+          "name": "是永 ゆうき  大",
+          "score": "50.70",
+          "class": "L1",
+          "style": "追",
+          "line": "",
+          "pref": "分"
+        },
+        {
+          "number": "5",
+          "name": "山本 さくら  愛",
+          "score": "49.48",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "6",
+          "name": "野寺 梓  静",
+          "score": "49.12",
+          "class": "L1",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020002",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "尾方 真生  福",
+          "score": "57.20",
+          "class": "L1",
+          "style": "逃",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "青木 美保  埼",
+          "score": "53.41",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "玉"
+        },
+        {
+          "number": "3",
+          "name": "山口 優依  愛",
+          "score": "53.20",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "4",
+          "name": "荒川 ひかり  茨",
+          "score": "52.47",
+          "class": "L1",
+          "style": "追",
+          "line": "",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "清水 美海",
+          "score": "49.75",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "神奈川"
+        },
+        {
+          "number": "6",
+          "name": "金田 舞夏  福",
+          "score": "48.41",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "寺本 愛花  徳",
+          "score": "47.85",
+          "class": "L1",
+          "style": "両",
+          "line": "",
+          "pref": "島"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020003",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "菅田 和宏  宮",
+          "score": "83.95",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "城"
+        },
+        {
+          "number": "2",
+          "name": "樋口 開土  東",
+          "score": "83.85",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "京"
+        },
+        {
+          "number": "3",
+          "name": "和田 禎嗣  埼",
+          "score": "82.25",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "玉"
+        },
+        {
+          "number": "4",
+          "name": "渡会 啓介  愛",
+          "score": "82.08",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "5",
+          "name": "平田 徹  静",
+          "score": "81.33",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "小川 達也  静",
+          "score": "79.75",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "大泉 英則  宮",
+          "score": "79.53",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020004",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "鈴木 小次廊  静",
+          "score": "86.62",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "副島 和人",
+          "score": "84.90",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "神奈川"
+        },
+        {
+          "number": "3",
+          "name": "中村 美千隆  兵",
+          "score": "81.77",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "庫"
+        },
+        {
+          "number": "4",
+          "name": "佐々木 祐太  岩",
+          "score": "80.55",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "手"
+        },
+        {
+          "number": "5",
+          "name": "黒田 篤  栃",
+          "score": "80.33",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "木"
+        },
+        {
+          "number": "6",
+          "name": "森川 剛",
+          "score": "77.70",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "葉狩 伸泰  大",
+          "score": "77.33",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "阪"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020005",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "小沼 良  埼",
+          "score": "89.55",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "玉"
+        },
+        {
+          "number": "2",
+          "name": "伊藤 温希  岐",
+          "score": "85.83",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "大川 栄二",
+          "score": "85.71",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "和歌山"
+        },
+        {
+          "number": "4",
+          "name": "金子 浩貴  京",
+          "score": "85.04",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "都"
+        },
+        {
+          "number": "5",
+          "name": "本村 隆文  岐",
+          "score": "84.11",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "6",
+          "name": "秋葉 大輔  東",
+          "score": "83.23",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "岩城 佑典  愛",
+          "score": "82.16",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020006",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "川木 敬大  兵",
+          "score": "87.62",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "庫"
+        },
+        {
+          "number": "2",
+          "name": "渡邉 高志  栃",
+          "score": "86.18",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "木"
+        },
+        {
+          "number": "3",
+          "name": "小浦 凪  岐",
+          "score": "84.95",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "4",
+          "name": "大利 航平",
+          "score": "82.62",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "和歌山"
+        },
+        {
+          "number": "5",
+          "name": "山本 恵介  福",
+          "score": "82.43",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "島"
+        },
+        {
+          "number": "6",
+          "name": "東 鉄也  三",
+          "score": "80.73",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "重"
+        },
+        {
+          "number": "7",
+          "name": "吉村 文隆  京",
+          "score": "77.80",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "都"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020007",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "古賀 勝大",
+          "score": "96.90",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "和歌山"
+        },
+        {
+          "number": "2",
+          "name": "松田 安綱  大",
+          "score": "93.14",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "阪"
+        },
+        {
+          "number": "3",
+          "name": "小笠原 一真  青",
+          "score": "92.27",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "森"
+        },
+        {
+          "number": "4",
+          "name": "小野 裕次  千",
+          "score": "90.56",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "葉"
+        },
+        {
+          "number": "5",
+          "name": "渡邊 健  愛",
+          "score": "86.08",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "6",
+          "name": "水書 義弘  千",
+          "score": "84.72",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "葉"
+        },
+        {
+          "number": "7",
+          "name": "戸塚 涼介  埼",
+          "score": "81.38",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "玉"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020008",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "仁藤 秀  静",
+          "score": "95.54",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "金澤 幸司  福",
+          "score": "93.47",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "平根 優大  福",
+          "score": "91.04",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "大木 雅也  静",
+          "score": "90.25",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "原 真司  岐",
+          "score": "87.54",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "6",
+          "name": "高橋 秀吉  秋",
+          "score": "86.52",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "田"
+        },
+        {
+          "number": "7",
+          "name": "森崎 英登  愛",
+          "score": "84.50",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "4720261111020009",
+      "date": "2026-11-12",
+      "venue": "matsusaka",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "真鍋 顕汰  三",
+          "score": "94.16",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "重"
+        },
+        {
+          "number": "2",
+          "name": "荒木 貴大  埼",
+          "score": "91.57",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "玉"
+        },
+        {
+          "number": "3",
+          "name": "山田 裕哉  岐",
+          "score": "89.00",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "4",
+          "name": "矢口 大樹  千",
+          "score": "87.38",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "葉"
+        },
+        {
+          "number": "5",
+          "name": "今井 希  埼",
+          "score": "86.66",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "玉"
+        },
+        {
+          "number": "6",
+          "name": "大西 健士",
+          "score": "85.46",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "鳥越 靖弘  愛",
+          "score": "83.05",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020001",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "土生 智徳  大",
+          "score": "80.61",
+          "class": "A2",
+          "style": "逃",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "阪"
+        },
+        {
+          "number": "2",
+          "name": "樋口 瑛土  東",
+          "score": "83.50",
+          "class": "A2",
+          "style": "追",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "京"
+        },
+        {
+          "number": "3",
+          "name": "松本 卓也  徳",
+          "score": "87.30",
+          "class": "A1",
+          "style": "両",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "長谷川 飛向  東",
+          "score": "89.61",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "京"
+        },
+        {
+          "number": "5",
+          "name": "櫻井 太士  岡",
+          "score": "84.16",
+          "class": "A1",
+          "style": "追",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "山"
+        },
+        {
+          "number": "6",
+          "name": "北川 大成  熊",
+          "score": "77.23",
+          "class": "A2",
+          "style": "逃",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "本"
+        },
+        {
+          "number": "7",
+          "name": "肥後 尚己  大",
+          "score": "88.45",
+          "class": "A1",
+          "style": "追",
+          "line": "◎4 ○2 ×3 ▲5 注1 △7",
+          "pref": "阪"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020002",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "藤井 稜也  岐",
+          "score": "82.56",
+          "class": "A2",
+          "style": "両",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "阜"
+        },
+        {
+          "number": "2",
+          "name": "峯口 司  長",
+          "score": "87.52",
+          "class": "A2",
+          "style": "逃",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "崎"
+        },
+        {
+          "number": "3",
+          "name": "黒田 大介  愛",
+          "score": "80.85",
+          "class": "A2",
+          "style": "追",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "媛"
+        },
+        {
+          "number": "4",
+          "name": "溝口 葵  三",
+          "score": "87.91",
+          "class": "A1",
+          "style": "逃",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "重"
+        },
+        {
+          "number": "5",
+          "name": "田村 浩章  徳",
+          "score": "81.40",
+          "class": "A2",
+          "style": "追",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "島"
+        },
+        {
+          "number": "6",
+          "name": "松尾 淳  岐",
+          "score": "79.33",
+          "class": "A2",
+          "style": "追",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "阜"
+        },
+        {
+          "number": "7",
+          "name": "山川 奨太  熊",
+          "score": "82.04",
+          "class": "A2",
+          "style": "逃",
+          "line": "○4 ◎1 △6 ×2 注7 ▲5",
+          "pref": "本"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020003",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "篠原 忍  愛",
+          "score": "90.46",
+          "class": "A1",
+          "style": "両",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "知"
+        },
+        {
+          "number": "2",
+          "name": "坂本 昌宏  青",
+          "score": "82.50",
+          "class": "A2",
+          "style": "追",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "森"
+        },
+        {
+          "number": "3",
+          "name": "金田 涼馬",
+          "score": "89.55",
+          "class": "A2",
+          "style": "逃",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "神奈川"
+        },
+        {
+          "number": "4",
+          "name": "坂元 洋行  三",
+          "score": "84.11",
+          "class": "A2",
+          "style": "追",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "重"
+        },
+        {
+          "number": "5",
+          "name": "南儀 拓海  富",
+          "score": "90.00",
+          "class": "A1",
+          "style": "逃",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "山"
+        },
+        {
+          "number": "6",
+          "name": "緒方 剛  埼",
+          "score": "82.16",
+          "class": "A2",
+          "style": "追",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "石橋 慎太郎  静",
+          "score": "94.27",
+          "class": "A1",
+          "style": "追",
+          "line": "△3 ×7 ▲2 ◎6 ○5 注1",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020004",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "本多 哲也  千",
+          "score": "88.52",
+          "class": "A1",
+          "style": "両",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "葉"
+        },
+        {
+          "number": "2",
+          "name": "佐藤 朋也  秋",
+          "score": "92.43",
+          "class": "A1",
+          "style": "追",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "田"
+        },
+        {
+          "number": "3",
+          "name": "石坂 永伍  岡",
+          "score": "86.13",
+          "class": "A1",
+          "style": "両",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "石川 航大  宮",
+          "score": "89.66",
+          "class": "A1",
+          "style": "逃",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "崎"
+        },
+        {
+          "number": "5",
+          "name": "大竹 哲也  静",
+          "score": "84.79",
+          "class": "A2",
+          "style": "追",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "中井 勇介  大",
+          "score": "84.33",
+          "class": "A1",
+          "style": "逃",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "阪"
+        },
+        {
+          "number": "7",
+          "name": "磯島 康祐  青",
+          "score": "92.66",
+          "class": "A1",
+          "style": "逃",
+          "line": "△1 ▲5 ◎7 ○2 ×4 注3",
+          "pref": "森"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020005",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "曽我 圭佑  熊",
+          "score": "91.33",
+          "class": "A1",
+          "style": "逃",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "本"
+        },
+        {
+          "number": "2",
+          "name": "久樹 克門  徳",
+          "score": "93.85",
+          "class": "A1",
+          "style": "逃",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "坂本 将太郎  栃",
+          "score": "87.37",
+          "class": "A1",
+          "style": "追",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "木"
+        },
+        {
+          "number": "4",
+          "name": "山崎 駿哉  岡",
+          "score": "88.28",
+          "class": "A2",
+          "style": "逃",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "山"
+        },
+        {
+          "number": "5",
+          "name": "椎名 俊介  茨",
+          "score": "93.09",
+          "class": "A2",
+          "style": "逃",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "城"
+        },
+        {
+          "number": "6",
+          "name": "須永 勝太  福",
+          "score": "82.56",
+          "class": "A2",
+          "style": "両",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "島"
+        },
+        {
+          "number": "7",
+          "name": "水谷 将司  愛",
+          "score": "89.95",
+          "class": "A2",
+          "style": "追",
+          "line": "×1 注7 ▲4 △2 ◎5 ○3",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020006",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "石井 貴子  千",
+          "score": "57.33",
+          "class": "L1",
+          "style": "両",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "葉"
+        },
+        {
+          "number": "2",
+          "name": "赤池 七虹  静",
+          "score": "52.16",
+          "class": "L1",
+          "style": "両",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "西田 美菜  奈",
+          "score": "49.44",
+          "class": "L1",
+          "style": "両",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "良"
+        },
+        {
+          "number": "4",
+          "name": "高橋 梨香  埼",
+          "score": "53.80",
+          "class": "L1",
+          "style": "両",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "玉"
+        },
+        {
+          "number": "5",
+          "name": "佐藤 亜貴子",
+          "score": "49.10",
+          "class": "L1",
+          "style": "両",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "神奈川"
+        },
+        {
+          "number": "6",
+          "name": "高木 萌那  福",
+          "score": "55.54",
+          "class": "L1",
+          "style": "逃",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "鈴木 樹里  福",
+          "score": "50.29",
+          "class": "L1",
+          "style": "両",
+          "line": "▲3 ◎1 △2 ○5 ×6 注4",
+          "pref": "島"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020007",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "吉村 美有紀  愛",
+          "score": "49.91",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "媛"
+        },
+        {
+          "number": "2",
+          "name": "高橋 美沙紀  愛",
+          "score": "52.37",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "古山 稀絵  静",
+          "score": "51.52",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "竹野 百香  三",
+          "score": "57.68",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "重"
+        },
+        {
+          "number": "5",
+          "name": "仲井 リコ  岐",
+          "score": "45.00",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "阜"
+        },
+        {
+          "number": "6",
+          "name": "飯田 風音  埼",
+          "score": "53.51",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "内野 艶和  福",
+          "score": "51.00",
+          "class": "L1",
+          "style": "両",
+          "line": "◎4 ▲1 △2 注3 ○6 ×7",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020008",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "伊藤 稔真  三",
+          "score": "94.70",
+          "class": "S2",
+          "style": "両",
+          "line": "×1 △4 注3 ◎2 ○5",
+          "pref": "重"
+        },
+        {
+          "number": "2",
+          "name": "田村 大  宮",
+          "score": "98.82",
+          "class": "S2",
+          "style": "逃",
+          "line": "×1 △4 注3 ◎2 ○5",
+          "pref": "崎"
+        },
+        {
+          "number": "3",
+          "name": "飯嶋 則之  栃",
+          "score": "94.69",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △4 注3 ◎2 ○5",
+          "pref": "木"
+        },
+        {
+          "number": "4",
+          "name": "鷲田 幸司  福",
+          "score": "96.10",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △4 注3 ◎2 ○5",
+          "pref": "井"
+        },
+        {
+          "number": "5",
+          "name": "山口 貴弘  佐",
+          "score": "98.89",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △4 注3 ◎2 ○5",
+          "pref": "賀"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020009",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "今村 麟太郎  高",
+          "score": "98.15",
+          "class": "S2",
+          "style": "両",
+          "line": "×1 注5 △4 ▲2 ◎3 ○6",
+          "pref": "知"
+        },
+        {
+          "number": "2",
+          "name": "土屋 裕二  静",
+          "score": "95.29",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 注5 △4 ▲2 ◎3 ○6",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "梅崎 隆介  長",
+          "score": "98.60",
+          "class": "S2",
+          "style": "両",
+          "line": "×1 注5 △4 ▲2 ◎3 ○6",
+          "pref": "崎"
+        },
+        {
+          "number": "4",
+          "name": "福田 知也",
+          "score": "98.37",
+          "class": "S1",
+          "style": "追",
+          "line": "×1 注5 △4 ▲2 ◎3 ○6",
+          "pref": "神奈川"
+        },
+        {
+          "number": "5",
+          "name": "門田 凌  愛",
+          "score": "97.55",
+          "class": "S2",
+          "style": "両",
+          "line": "×1 注5 △4 ▲2 ◎3 ○6",
+          "pref": "媛"
+        },
+        {
+          "number": "6",
+          "name": "島村 匠  福",
+          "score": "93.83",
+          "class": "S2",
+          "style": "両",
+          "line": "×1 注5 △4 ▲2 ◎3 ○6",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020010",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "10",
+      "players": [
+        {
+          "number": "1",
+          "name": "川口 公太朗  岐",
+          "score": "102.40",
+          "class": "S1",
+          "style": "追",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "阜"
+        },
+        {
+          "number": "2",
+          "name": "阿竹 智史  徳",
+          "score": "100.85",
+          "class": "S1",
+          "style": "両",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "南部 翔大  大",
+          "score": "101.77",
+          "class": "S2",
+          "style": "逃",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "阪"
+        },
+        {
+          "number": "4",
+          "name": "神田 龍  三",
+          "score": "98.22",
+          "class": "S2",
+          "style": "逃",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "重"
+        },
+        {
+          "number": "5",
+          "name": "吉本 卓仁  福",
+          "score": "103.25",
+          "class": "S1",
+          "style": "両",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "平原 啓多  埼",
+          "score": "98.06",
+          "class": "S2",
+          "style": "追",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "吉川 起也  富",
+          "score": "99.15",
+          "class": "S2",
+          "style": "両",
+          "line": "注4 ×1 ▲7 ○6 ◎3 △5",
+          "pref": "山"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020011",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "11",
+      "players": [
+        {
+          "number": "1",
+          "name": "西村 光太  三",
+          "score": "105.31",
+          "class": "S1",
+          "style": "追",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "重"
+        },
+        {
+          "number": "2",
+          "name": "田中 晴基  千",
+          "score": "102.77",
+          "class": "S2",
+          "style": "追",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "葉"
+        },
+        {
+          "number": "3",
+          "name": "岸澤 賢太  埼",
+          "score": "99.04",
+          "class": "S2",
+          "style": "追",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "玉"
+        },
+        {
+          "number": "4",
+          "name": "中村 龍吉  福",
+          "score": "99.18",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "青柳 靖起  佐",
+          "score": "104.87",
+          "class": "S1",
+          "style": "逃",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "賀"
+        },
+        {
+          "number": "6",
+          "name": "永井 哉多  東",
+          "score": "97.80",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "横関 裕樹  岐",
+          "score": "101.30",
+          "class": "S2",
+          "style": "両",
+          "line": "◎5 ○1 注7 ×4 △2 ▲6",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "4820261111020012",
+      "date": "2026-11-12",
+      "venue": "yokkaichi",
+      "race_no": "12",
+      "players": [
+        {
+          "number": "1",
+          "name": "岡田 征陽  東",
+          "score": "101.11",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "京"
+        },
+        {
+          "number": "2",
+          "name": "佐山 寛明  奈",
+          "score": "100.07",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "良"
+        },
+        {
+          "number": "3",
+          "name": "望月 永悟  静",
+          "score": "98.07",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "藤井 昭吾  滋",
+          "score": "104.29",
+          "class": "S1",
+          "style": "両",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "賀"
+        },
+        {
+          "number": "5",
+          "name": "今井 聡  東",
+          "score": "98.26",
+          "class": "S2",
+          "style": "追",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "京"
+        },
+        {
+          "number": "6",
+          "name": "後藤 悠  岩",
+          "score": "94.31",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "手"
+        },
+        {
+          "number": "7",
+          "name": "木村 皆斗  茨",
+          "score": "109.53",
+          "class": "S1",
+          "style": "逃",
+          "line": "◎7 ○1 ×5 △4 ▲2 注6",
+          "pref": "城"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020001",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "田川 辰二  熊",
+          "score": "79.53",
+          "class": "A2",
+          "style": "追",
+          "line": "◎6 ○1 ×2 ▲4 注5 △3",
+          "pref": "本"
+        },
+        {
+          "number": "2",
+          "name": "善利 裕生  滋",
+          "score": "82.91",
+          "class": "A2",
+          "style": "両",
+          "line": "◎6 ○1 ×2 ▲4 注5 △3",
+          "pref": "賀"
+        },
+        {
+          "number": "3",
+          "name": "増田 利明  静",
+          "score": "82.66",
+          "class": "A1",
+          "style": "両",
+          "line": "◎6 ○1 ×2 ▲4 注5 △3",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "有馬 雄二  奈",
+          "score": "79.91",
+          "class": "A2",
+          "style": "追",
+          "line": "◎6 ○1 ×2 ▲4 注5 △3",
+          "pref": "良"
+        },
+        {
+          "number": "5",
+          "name": "齋藤 友幸  静",
+          "score": "80.61",
+          "class": "A1",
+          "style": "両",
+          "line": "◎6 ○1 ×2 ▲4 注5 △3",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "火島 裕輝  愛",
+          "score": "83.41",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎6 ○1 ×2 ▲4 注5 △3",
+          "pref": "媛"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020002",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "佐野 洋継  京",
+          "score": "78.45",
+          "class": "A2",
+          "style": "両",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "都"
+        },
+        {
+          "number": "2",
+          "name": "河上 陽一  千",
+          "score": "81.66",
+          "class": "A2",
+          "style": "両",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "葉"
+        },
+        {
+          "number": "3",
+          "name": "星島 太  岡",
+          "score": "80.25",
+          "class": "A2",
+          "style": "追",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "荻原 寿嗣",
+          "score": "89.00",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "北海道"
+        },
+        {
+          "number": "5",
+          "name": "武田 哲二  京",
+          "score": "79.22",
+          "class": "A2",
+          "style": "追",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "都"
+        },
+        {
+          "number": "6",
+          "name": "大橋 直人  埼",
+          "score": "77.50",
+          "class": "A2",
+          "style": "追",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "高鍋 邦彰  福",
+          "score": "80.72",
+          "class": "A2",
+          "style": "両",
+          "line": "◎4 ○2 注6 △1 ×5 ▲7",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020003",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "佐々木 省司  青",
+          "score": "91.92",
+          "class": "A1",
+          "style": "追",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "森"
+        },
+        {
+          "number": "2",
+          "name": "内藤 久文  愛",
+          "score": "92.29",
+          "class": "A1",
+          "style": "逃",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "中澤 央治  大",
+          "score": "84.87",
+          "class": "A2",
+          "style": "追",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "阪"
+        },
+        {
+          "number": "4",
+          "name": "望月 紀男  静",
+          "score": "86.70",
+          "class": "A2",
+          "style": "追",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "池田 充槻  秋",
+          "score": "91.33",
+          "class": "A2",
+          "style": "逃",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "田"
+        },
+        {
+          "number": "6",
+          "name": "島野 浩司  愛",
+          "score": "83.20",
+          "class": "A1",
+          "style": "追",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "藤岡 徹也  兵",
+          "score": "84.50",
+          "class": "A1",
+          "style": "両",
+          "line": "×5 △1 ▲4 ◎2 ○6 注7",
+          "pref": "庫"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020004",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "岡部 陸斗  栃",
+          "score": "93.71",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "木"
+        },
+        {
+          "number": "2",
+          "name": "石丸 寛之  岡",
+          "score": "90.48",
+          "class": "A1",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "山"
+        },
+        {
+          "number": "3",
+          "name": "野木 義規",
+          "score": "84.08",
+          "class": "A2",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "北海道"
+        },
+        {
+          "number": "4",
+          "name": "吉田 元輝  茨",
+          "score": "88.96",
+          "class": "A2",
+          "style": "両",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "森安 崇之  香",
+          "score": "92.68",
+          "class": "A1",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "川"
+        },
+        {
+          "number": "6",
+          "name": "山崎 悟  茨",
+          "score": "83.70",
+          "class": "A2",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "城"
+        },
+        {
+          "number": "7",
+          "name": "野上 竜太  岡",
+          "score": "85.03",
+          "class": "A2",
+          "style": "逃",
+          "line": "◎1 ○4 ▲6 注3 ×7 △2",
+          "pref": "山"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020005",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "高間 悠平  福",
+          "score": "92.90",
+          "class": "A1",
+          "style": "追",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "井"
+        },
+        {
+          "number": "2",
+          "name": "須藤 直道  群",
+          "score": "82.66",
+          "class": "A1",
+          "style": "追",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "馬"
+        },
+        {
+          "number": "3",
+          "name": "桑原 亮  福",
+          "score": "92.70",
+          "class": "A1",
+          "style": "追",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "櫻木 雄太  福",
+          "score": "83.17",
+          "class": "A1",
+          "style": "逃",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "上杉 有弘  福",
+          "score": "93.23",
+          "class": "A2",
+          "style": "逃",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "井"
+        },
+        {
+          "number": "6",
+          "name": "有賀 高士  石",
+          "score": "80.00",
+          "class": "A2",
+          "style": "追",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "川"
+        },
+        {
+          "number": "7",
+          "name": "吉川 裕二  大",
+          "score": "88.09",
+          "class": "A2",
+          "style": "追",
+          "line": "○5 ◎1 注6 △2 ×4 ▲3",
+          "pref": "分"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020006",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "合志 正臣  熊",
+          "score": "97.08",
+          "class": "S2",
+          "style": "追",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "本"
+        },
+        {
+          "number": "2",
+          "name": "明田 春喜",
+          "score": "95.87",
+          "class": "S2",
+          "style": "追",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "北海道"
+        },
+        {
+          "number": "3",
+          "name": "島田 竜二  熊",
+          "score": "92.96",
+          "class": "S2",
+          "style": "追",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "本"
+        },
+        {
+          "number": "4",
+          "name": "上杉 嘉槻  福",
+          "score": "94.03",
+          "class": "S2",
+          "style": "逃",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "井"
+        },
+        {
+          "number": "5",
+          "name": "金成 和幸  福",
+          "score": "95.20",
+          "class": "S2",
+          "style": "追",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "島"
+        },
+        {
+          "number": "6",
+          "name": "吉田 裕全  埼",
+          "score": "90.00",
+          "class": "S2",
+          "style": "追",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "佐々木 亮太  青",
+          "score": "97.00",
+          "class": "S2",
+          "style": "逃",
+          "line": "×4 △1 ▲3 ◎7 ○2 注5",
+          "pref": "森"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020007",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "稲葉 一真  静",
+          "score": "97.92",
+          "class": "S2",
+          "style": "追",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "稲毛 知也",
+          "score": "98.04",
+          "class": "S2",
+          "style": "逃",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "和歌山"
+        },
+        {
+          "number": "3",
+          "name": "野村 典嗣  愛",
+          "score": "95.03",
+          "class": "S2",
+          "style": "追",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "媛"
+        },
+        {
+          "number": "4",
+          "name": "庄子 信弘  宮",
+          "score": "100.06",
+          "class": "S2",
+          "style": "追",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "谷田 泰平  岐",
+          "score": "93.63",
+          "class": "S2",
+          "style": "追",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "阜"
+        },
+        {
+          "number": "6",
+          "name": "邊見 光輝  福",
+          "score": "90.78",
+          "class": "S2",
+          "style": "逃",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "島"
+        },
+        {
+          "number": "7",
+          "name": "山口 泰生  岐",
+          "score": "94.16",
+          "class": "S2",
+          "style": "追",
+          "line": "×6 △4 ▲1 ◎3 ○2 注7",
+          "pref": "阜"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020008",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "佐藤 大地  三",
+          "score": "97.62",
+          "class": "S2",
+          "style": "逃",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "重"
+        },
+        {
+          "number": "2",
+          "name": "金子 哲大  埼",
+          "score": "99.08",
+          "class": "S2",
+          "style": "両",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "玉"
+        },
+        {
+          "number": "3",
+          "name": "原田 亮太  千",
+          "score": "100.23",
+          "class": "S2",
+          "style": "逃",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "葉"
+        },
+        {
+          "number": "4",
+          "name": "藤岡 隆治  徳",
+          "score": "97.11",
+          "class": "S2",
+          "style": "追",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "松尾 透  福",
+          "score": "99.25",
+          "class": "S2",
+          "style": "追",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "西村 行貴  東",
+          "score": "96.40",
+          "class": "S2",
+          "style": "追",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "松田 治之  大",
+          "score": "100.22",
+          "class": "S1",
+          "style": "追",
+          "line": "△1 ×7 ▲5 ◎4 ○3 注2",
+          "pref": "阪"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020009",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "早坂 秀悟  茨",
+          "score": "96.34",
+          "class": "S2",
+          "style": "逃",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "城"
+        },
+        {
+          "number": "2",
+          "name": "野中 龍之介",
+          "score": "103.40",
+          "class": "S2",
+          "style": "逃",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "神奈川"
+        },
+        {
+          "number": "3",
+          "name": "木村 直隆  兵",
+          "score": "98.79",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "庫"
+        },
+        {
+          "number": "4",
+          "name": "佐々木 堅次  福",
+          "score": "99.45",
+          "class": "S2",
+          "style": "両",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "小林 大介  群",
+          "score": "97.11",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "馬"
+        },
+        {
+          "number": "6",
+          "name": "佐藤 成人  奈",
+          "score": "94.37",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "良"
+        },
+        {
+          "number": "7",
+          "name": "中村 浩士  千",
+          "score": "102.00",
+          "class": "S2",
+          "style": "追",
+          "line": "×1 △5 注4 ◎2 ○7 ▲3",
+          "pref": "葉"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020010",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "10",
+      "players": [
+        {
+          "number": "1",
+          "name": "後藤 大輝  福",
+          "score": "109.48",
+          "class": "S1",
+          "style": "逃",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "寺沼 拓摩  東",
+          "score": "104.70",
+          "class": "S1",
+          "style": "両",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "京"
+        },
+        {
+          "number": "3",
+          "name": "長尾 拳太  岐",
+          "score": "105.80",
+          "class": "S2",
+          "style": "両",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "阜"
+        },
+        {
+          "number": "4",
+          "name": "東 龍之介",
+          "score": "107.16",
+          "class": "S2",
+          "style": "追",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "神奈川"
+        },
+        {
+          "number": "5",
+          "name": "清水 一幸  大",
+          "score": "104.36",
+          "class": "S2",
+          "style": "追",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "阪"
+        },
+        {
+          "number": "6",
+          "name": "太田 龍希  埼",
+          "score": "99.91",
+          "class": "S2",
+          "style": "逃",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "玉"
+        },
+        {
+          "number": "7",
+          "name": "市橋 司優人  福",
+          "score": "100.88",
+          "class": "S2",
+          "style": "両",
+          "line": "◎1 注7 ×4 △3 ▲5 ○6",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020011",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "11",
+      "players": [
+        {
+          "number": "1",
+          "name": "竹村 勇祐  秋",
+          "score": "103.11",
+          "class": "S2",
+          "style": "追",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "田"
+        },
+        {
+          "number": "2",
+          "name": "清水 剛志  福",
+          "score": "103.88",
+          "class": "S2",
+          "style": "両",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "井"
+        },
+        {
+          "number": "3",
+          "name": "阿部 英斗  福",
+          "score": "106.42",
+          "class": "S2",
+          "style": "逃",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "中村 圭志  熊",
+          "score": "106.00",
+          "class": "S1",
+          "style": "追",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "本"
+        },
+        {
+          "number": "5",
+          "name": "雨谷 一樹  栃",
+          "score": "109.72",
+          "class": "S1",
+          "style": "両",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "木"
+        },
+        {
+          "number": "6",
+          "name": "治田 知也  新",
+          "score": "98.76",
+          "class": "S2",
+          "style": "逃",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "潟"
+        },
+        {
+          "number": "7",
+          "name": "小西 晴己  三",
+          "score": "103.68",
+          "class": "S2",
+          "style": "両",
+          "line": "×6 ▲5 注1 △7 ◎2 ○3",
+          "pref": "重"
+        }
+      ]
+    },
+    {
+      "race_id": "5120261111020012",
+      "date": "2026-11-12",
+      "venue": "fukui",
+      "race_no": "12",
+      "players": [
+        {
+          "number": "1",
+          "name": "久田 朔  大",
+          "score": "104.30",
+          "class": "S2",
+          "style": "逃",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "阪"
+        },
+        {
+          "number": "2",
+          "name": "磯島 成介  青",
+          "score": "104.34",
+          "class": "S2",
+          "style": "逃",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "森"
+        },
+        {
+          "number": "3",
+          "name": "堤 洋  徳",
+          "score": "100.90",
+          "class": "S1",
+          "style": "追",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "小森 貴大  福",
+          "score": "101.58",
+          "class": "S1",
+          "style": "両",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "井"
+        },
+        {
+          "number": "5",
+          "name": "大槻 寛徳  宮",
+          "score": "109.14",
+          "class": "S1",
+          "style": "追",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "城"
+        },
+        {
+          "number": "6",
+          "name": "原 誠宏  香",
+          "score": "101.05",
+          "class": "S2",
+          "style": "追",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "川"
+        },
+        {
+          "number": "7",
+          "name": "外田 心斗  愛",
+          "score": "103.36",
+          "class": "S2",
+          "style": "逃",
+          "line": "○1 ◎4 △2 ×5 注7 ▲6",
+          "pref": "媛"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010001",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "作田 悦章  徳",
+          "score": "76.04",
+          "class": "A3",
+          "style": "追",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "島"
+        },
+        {
+          "number": "2",
+          "name": "早坂 道義  栃",
+          "score": "71.53",
+          "class": "A3",
+          "style": "追",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "木"
+        },
+        {
+          "number": "3",
+          "name": "大室 翔  岡",
+          "score": "71.20",
+          "class": "A3",
+          "style": "逃",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "土居 佑次  高",
+          "score": "69.90",
+          "class": "A3",
+          "style": "逃",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "知"
+        },
+        {
+          "number": "5",
+          "name": "阿部 凪汰  埼",
+          "score": "77.38",
+          "class": "A3",
+          "style": "逃",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "玉"
+        },
+        {
+          "number": "6",
+          "name": "浦野 慈生",
+          "score": "68.06",
+          "class": "A3",
+          "style": "両",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "齋藤 仁  徳",
+          "score": "69.82",
+          "class": "A3",
+          "style": "追",
+          "line": "注4 ×1 ▲7 △3 ◎5 ○2",
+          "pref": "島"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010002",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "田沼 龍弥  群",
+          "score": "78.16",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "馬"
+        },
+        {
+          "number": "2",
+          "name": "真崎 章徳  佐",
+          "score": "69.33",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "賀"
+        },
+        {
+          "number": "3",
+          "name": "大本 隆也",
+          "score": "75.52",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "神奈川"
+        },
+        {
+          "number": "4",
+          "name": "高田 大輔  岡",
+          "score": "68.37",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "山"
+        },
+        {
+          "number": "5",
+          "name": "水野 悟志  静",
+          "score": "69.33",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "水木 裕聡  高",
+          "score": "67.22",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "奥山 雅士  静",
+          "score": "68.53",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○4 ▲6 注2 ×3 △5",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010003",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "森下 龍之介  福",
+          "score": "78.16",
+          "class": "A3",
+          "style": "逃",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "石田 宏樹  青",
+          "score": "73.70",
+          "class": "A3",
+          "style": "両",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "森"
+        },
+        {
+          "number": "3",
+          "name": "高嶋 一朗  岡",
+          "score": "69.11",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "山崎 功也  宮",
+          "score": "73.85",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "工藤 考生  埼",
+          "score": "69.92",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "玉"
+        },
+        {
+          "number": "6",
+          "name": "須藤 雄太  千",
+          "score": "65.87",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "葉"
+        },
+        {
+          "number": "7",
+          "name": "瓦田 勝也  福",
+          "score": "71.35",
+          "class": "A3",
+          "style": "追",
+          "line": "◎1 ○7 注3 △2 ×4 ▲5",
+          "pref": "岡"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010004",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "田上 晃也  岡",
+          "score": "79.00",
+          "class": "A3",
+          "style": "逃",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "山"
+        },
+        {
+          "number": "2",
+          "name": "木下 章  長",
+          "score": "68.87",
+          "class": "A3",
+          "style": "両",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "野"
+        },
+        {
+          "number": "3",
+          "name": "榊枝 天旺  福",
+          "score": "77.04",
+          "class": "A3",
+          "style": "逃",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "小磯 知也  徳",
+          "score": "70.25",
+          "class": "A3",
+          "style": "追",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "坂本 智哉  岡",
+          "score": "69.50",
+          "class": "A3",
+          "style": "追",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "山"
+        },
+        {
+          "number": "6",
+          "name": "久保 将史",
+          "score": "65.25",
+          "class": "A3",
+          "style": "両",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "神奈川"
+        },
+        {
+          "number": "7",
+          "name": "中野 良",
+          "score": "72.55",
+          "class": "A3",
+          "style": "追",
+          "line": "○3 △7 ▲2 ◎1 ×5 注4",
+          "pref": "北海道"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010005",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "里見 恒平  千",
+          "score": "72.22",
+          "class": "A3",
+          "style": "逃",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "葉"
+        },
+        {
+          "number": "2",
+          "name": "爲田 学  沖",
+          "score": "69.87",
+          "class": "A3",
+          "style": "追",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "縄"
+        },
+        {
+          "number": "3",
+          "name": "小川 辰徳  埼",
+          "score": "69.42",
+          "class": "A3",
+          "style": "両",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "玉"
+        },
+        {
+          "number": "4",
+          "name": "兒島 直樹  福",
+          "score": "81.66",
+          "class": "A3",
+          "style": "逃",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "吉橋 秀城  埼",
+          "score": "69.29",
+          "class": "A3",
+          "style": "追",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "玉"
+        },
+        {
+          "number": "6",
+          "name": "和泉田 喜一  千",
+          "score": "67.16",
+          "class": "A3",
+          "style": "追",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "葉"
+        },
+        {
+          "number": "7",
+          "name": "時松 正  熊",
+          "score": "69.33",
+          "class": "A3",
+          "style": "追",
+          "line": "○1 ◎6 ×4 ▲2 △7 注3",
+          "pref": "本"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010006",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "甲斐 康昭  群",
+          "score": "85.28",
+          "class": "A2",
+          "style": "追",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "馬"
+        },
+        {
+          "number": "2",
+          "name": "吉川 嘉斗  徳",
+          "score": "87.00",
+          "class": "A1",
+          "style": "追",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "島"
+        },
+        {
+          "number": "3",
+          "name": "池田 浩士  佐",
+          "score": "85.58",
+          "class": "A2",
+          "style": "追",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "賀"
+        },
+        {
+          "number": "4",
+          "name": "山田 和巧",
+          "score": "82.62",
+          "class": "A2",
+          "style": "追",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "神奈川"
+        },
+        {
+          "number": "5",
+          "name": "浅見 隼  福",
+          "score": "87.70",
+          "class": "A1",
+          "style": "逃",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "鳥海 創  千",
+          "score": "79.28",
+          "class": "A2",
+          "style": "逃",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "葉"
+        },
+        {
+          "number": "7",
+          "name": "横内 裕人  愛",
+          "score": "81.90",
+          "class": "A2",
+          "style": "両",
+          "line": "▲7 ×2 注1 ◎5 ○3 △6",
+          "pref": "媛"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010007",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "山崎 敦雄  静",
+          "score": "85.38",
+          "class": "A1",
+          "style": "追",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "園田 鉄兵  熊",
+          "score": "82.17",
+          "class": "A2",
+          "style": "追",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "本"
+        },
+        {
+          "number": "3",
+          "name": "高峰 賢治  山",
+          "score": "85.09",
+          "class": "A2",
+          "style": "追",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "梨"
+        },
+        {
+          "number": "4",
+          "name": "野津 宏介  福",
+          "score": "86.19",
+          "class": "A2",
+          "style": "逃",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "吉竹 尚城  静",
+          "score": "89.29",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "飯島 淳  東",
+          "score": "79.41",
+          "class": "A2",
+          "style": "追",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "茅野 寛史",
+          "score": "81.84",
+          "class": "A1",
+          "style": "追",
+          "line": "◎5 ○1 注3 ×4 △2 ▲7",
+          "pref": "鹿児島"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010008",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "高橋 陽介  青",
+          "score": "88.00",
+          "class": "A1",
+          "style": "追",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "森"
+        },
+        {
+          "number": "2",
+          "name": "谷口 幸司  高",
+          "score": "84.46",
+          "class": "A2",
+          "style": "追",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "田中 孝法  福",
+          "score": "79.36",
+          "class": "A2",
+          "style": "追",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "坂本 拓也  福",
+          "score": "87.95",
+          "class": "A1",
+          "style": "両",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "三木 健正  岡",
+          "score": "82.58",
+          "class": "A1",
+          "style": "逃",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "山"
+        },
+        {
+          "number": "6",
+          "name": "勝部 貴博  福",
+          "score": "77.20",
+          "class": "A2",
+          "style": "両",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "中石 昌芳  広",
+          "score": "89.76",
+          "class": "A1",
+          "style": "追",
+          "line": "×4 △1 ○5 ◎7 注2 ▲6",
+          "pref": "島"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010009",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "内山 拓  福",
+          "score": "86.62",
+          "class": "A1",
+          "style": "追",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "小林 申太  茨",
+          "score": "85.96",
+          "class": "A2",
+          "style": "両",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "城"
+        },
+        {
+          "number": "3",
+          "name": "井手 健  長",
+          "score": "81.81",
+          "class": "A2",
+          "style": "追",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "崎"
+        },
+        {
+          "number": "4",
+          "name": "佐藤 正吾  宮",
+          "score": "82.38",
+          "class": "A2",
+          "style": "追",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "城"
+        },
+        {
+          "number": "5",
+          "name": "八谷 誠賢  福",
+          "score": "90.61",
+          "class": "A1",
+          "style": "逃",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "飯塚 隼人  佐",
+          "score": "80.00",
+          "class": "A2",
+          "style": "両",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "賀"
+        },
+        {
+          "number": "7",
+          "name": "江連 和洋  栃",
+          "score": "85.57",
+          "class": "A1",
+          "style": "追",
+          "line": "◎5 ○1 ×2 △7 注4 ▲6",
+          "pref": "木"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010010",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "10",
+      "players": [
+        {
+          "number": "1",
+          "name": "宗崎 世連  高",
+          "score": "87.92",
+          "class": "A1",
+          "style": "両",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "知"
+        },
+        {
+          "number": "2",
+          "name": "田代 匠  福",
+          "score": "84.62",
+          "class": "A2",
+          "style": "逃",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "白石 大輔  福",
+          "score": "86.62",
+          "class": "A1",
+          "style": "両",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "泉 文人  福",
+          "score": "85.77",
+          "class": "A2",
+          "style": "両",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "守安 政雄  岡",
+          "score": "84.22",
+          "class": "A2",
+          "style": "追",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "山"
+        },
+        {
+          "number": "6",
+          "name": "甲斐下 智  広",
+          "score": "78.00",
+          "class": "A2",
+          "style": "追",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "島"
+        },
+        {
+          "number": "7",
+          "name": "安谷屋 将志  沖",
+          "score": "82.61",
+          "class": "A2",
+          "style": "両",
+          "line": "◎1 ○5 ▲6 注2 ×7 △4",
+          "pref": "縄"
+        }
+      ]
+    },
+    {
+      "race_id": "6120261112010011",
+      "date": "2026-11-12",
+      "venue": "tamano",
+      "race_no": "11",
+      "players": [
+        {
+          "number": "1",
+          "name": "滝本 泰行  岡",
+          "score": "93.20",
+          "class": "A1",
+          "style": "両",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "山"
+        },
+        {
+          "number": "2",
+          "name": "蕗澤 鴻太郎  群",
+          "score": "94.69",
+          "class": "A1",
+          "style": "逃",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "馬"
+        },
+        {
+          "number": "3",
+          "name": "野口 大誠  熊",
+          "score": "92.54",
+          "class": "A1",
+          "style": "両",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "本"
+        },
+        {
+          "number": "4",
+          "name": "江守 昇  千",
+          "score": "92.55",
+          "class": "A1",
+          "style": "追",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "葉"
+        },
+        {
+          "number": "5",
+          "name": "吉田 智哉  愛",
+          "score": "94.75",
+          "class": "A1",
+          "style": "逃",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "媛"
+        },
+        {
+          "number": "6",
+          "name": "寺沼 伊織  東",
+          "score": "92.16",
+          "class": "A1",
+          "style": "両",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "京"
+        },
+        {
+          "number": "7",
+          "name": "杉山 悠也  秋",
+          "score": "93.57",
+          "class": "A1",
+          "style": "追",
+          "line": "×5 △1 ◎2 ○6 注7 ▲4",
+          "pref": "田"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020001",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "1",
+      "players": [
+        {
+          "number": "1",
+          "name": "田中 弘章  福",
+          "score": "75.04",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "2",
+          "name": "赤松 秀展  高",
+          "score": "73.55",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "川本 琢也  岡",
+          "score": "73.14",
+          "class": "A3",
+          "style": "両",
+          "line": "",
+          "pref": "山"
+        },
+        {
+          "number": "4",
+          "name": "楠本 政明  福",
+          "score": "70.41",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "木本 賢二  大",
+          "score": "70.17",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "阪"
+        },
+        {
+          "number": "6",
+          "name": "白崎 芳典  福",
+          "score": "69.94",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "井"
+        },
+        {
+          "number": "7",
+          "name": "曽我部 匡史  愛",
+          "score": "69.11",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "媛"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020002",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "2",
+      "players": [
+        {
+          "number": "1",
+          "name": "財満 伊織  熊",
+          "score": "73.09",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "本"
+        },
+        {
+          "number": "2",
+          "name": "大林 亮介  香",
+          "score": "71.40",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "川"
+        },
+        {
+          "number": "3",
+          "name": "梶原 秀庸  大",
+          "score": "70.50",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "阪"
+        },
+        {
+          "number": "4",
+          "name": "磯村 蓮太  愛",
+          "score": "70.39",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "5",
+          "name": "後田 康成  長",
+          "score": "70.20",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "崎"
+        },
+        {
+          "number": "6",
+          "name": "白井 一機  愛",
+          "score": "67.94",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "中野 彰人",
+          "score": "64.00",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "和歌山"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020003",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "3",
+      "players": [
+        {
+          "number": "1",
+          "name": "戸田 康平  香",
+          "score": "77.50",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "川"
+        },
+        {
+          "number": "2",
+          "name": "木曽田 晃大  京",
+          "score": "76.08",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "都"
+        },
+        {
+          "number": "3",
+          "name": "藤井 準也  岐",
+          "score": "74.76",
+          "class": "A3",
+          "style": "両",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "4",
+          "name": "龍門 慎太郎  岡",
+          "score": "72.33",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "山"
+        },
+        {
+          "number": "5",
+          "name": "原 清孝  沖",
+          "score": "71.75",
+          "class": "A3",
+          "style": "両",
+          "line": "",
+          "pref": "縄"
+        },
+        {
+          "number": "6",
+          "name": "田山 誠  長",
+          "score": "67.91",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "崎"
+        },
+        {
+          "number": "7",
+          "name": "三登 誉哲  広",
+          "score": "65.42",
+          "class": "A3",
+          "style": "両",
+          "line": "",
+          "pref": "島"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020004",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "4",
+      "players": [
+        {
+          "number": "1",
+          "name": "高佐 龍太郎  宮",
+          "score": "79.77",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "崎"
+        },
+        {
+          "number": "2",
+          "name": "森川 康輔  岐",
+          "score": "75.00",
+          "class": "A3",
+          "style": "両",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "松丸 裕紀  福",
+          "score": "74.73",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "窪田 陽介  滋",
+          "score": "74.08",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "賀"
+        },
+        {
+          "number": "5",
+          "name": "塚本 貴雄  岐",
+          "score": "70.58",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "6",
+          "name": "古閑 良介  福",
+          "score": "70.28",
+          "class": "A3",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "7",
+          "name": "宮田 龍一  大",
+          "score": "70.00",
+          "class": "A3",
+          "style": "逃",
+          "line": "",
+          "pref": "阪"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020005",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "5",
+      "players": [
+        {
+          "number": "1",
+          "name": "林 明宏  高",
+          "score": "87.27",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "2",
+          "name": "三浦 稔希  愛",
+          "score": "84.20",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "小川 将人  愛",
+          "score": "83.21",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "4",
+          "name": "辻 力  石",
+          "score": "81.12",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "川"
+        },
+        {
+          "number": "5",
+          "name": "中村 泰輔",
+          "score": "80.14",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "和歌山"
+        },
+        {
+          "number": "6",
+          "name": "山本 貴章  岡",
+          "score": "79.92",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "山"
+        },
+        {
+          "number": "7",
+          "name": "中岡 海  愛",
+          "score": "76.27",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "媛"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020006",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "6",
+      "players": [
+        {
+          "number": "1",
+          "name": "山田 晃久  石",
+          "score": "87.55",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "川"
+        },
+        {
+          "number": "2",
+          "name": "永井 清史  岐",
+          "score": "81.50",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "阜"
+        },
+        {
+          "number": "3",
+          "name": "石黒 健  広",
+          "score": "80.85",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "島"
+        },
+        {
+          "number": "4",
+          "name": "別所 英幸  福",
+          "score": "79.38",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "5",
+          "name": "小山 峻汰  熊",
+          "score": "79.33",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "本"
+        },
+        {
+          "number": "6",
+          "name": "船曳 義之  香",
+          "score": "79.00",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "川"
+        },
+        {
+          "number": "7",
+          "name": "牛田 樹希斗  愛",
+          "score": "78.32",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "知"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020007",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "7",
+      "players": [
+        {
+          "number": "1",
+          "name": "田中 和磨  岡",
+          "score": "93.43",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "山"
+        },
+        {
+          "number": "2",
+          "name": "藤原 浩  高",
+          "score": "89.47",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "3",
+          "name": "寺師 幸成",
+          "score": "88.28",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "鹿児島"
+        },
+        {
+          "number": "4",
+          "name": "中川 繁樹  京",
+          "score": "88.08",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "都"
+        },
+        {
+          "number": "5",
+          "name": "四元 慎也  宮",
+          "score": "85.17",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "崎"
+        },
+        {
+          "number": "6",
+          "name": "山田 哲也  愛",
+          "score": "84.35",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "知"
+        },
+        {
+          "number": "7",
+          "name": "川野 正芳  大",
+          "score": "82.38",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "分"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020008",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "8",
+      "players": [
+        {
+          "number": "1",
+          "name": "小嶋 敬二  石",
+          "score": "92.00",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "川"
+        },
+        {
+          "number": "2",
+          "name": "常次 勇人  大",
+          "score": "91.74",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "阪"
+        },
+        {
+          "number": "3",
+          "name": "阿部 兼士  福",
+          "score": "87.37",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "4",
+          "name": "松本 昂大  長",
+          "score": "85.13",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "崎"
+        },
+        {
+          "number": "5",
+          "name": "鶴 淳志  福",
+          "score": "83.44",
+          "class": "A2",
+          "style": "逃",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "6",
+          "name": "屋良 朝春  沖",
+          "score": "80.90",
+          "class": "A2",
+          "style": "両",
+          "line": "",
+          "pref": "縄"
+        },
+        {
+          "number": "7",
+          "name": "山口 幸太郎  長",
+          "score": "80.77",
+          "class": "A2",
+          "style": "追",
+          "line": "",
+          "pref": "崎"
+        }
+      ]
+    },
+    {
+      "race_id": "8520261111020009",
+      "date": "2026-11-12",
+      "venue": "sasebo",
+      "race_no": "9",
+      "players": [
+        {
+          "number": "1",
+          "name": "今野 大輔  岡",
+          "score": "95.20",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "山"
+        },
+        {
+          "number": "2",
+          "name": "樫山 恭柄  福",
+          "score": "94.33",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "岡"
+        },
+        {
+          "number": "3",
+          "name": "徳永 泰粋  熊",
+          "score": "89.42",
+          "class": "A1",
+          "style": "逃",
+          "line": "",
+          "pref": "本"
+        },
+        {
+          "number": "4",
+          "name": "大瀬戸 潤一郎  広",
+          "score": "88.45",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "島"
+        },
+        {
+          "number": "5",
+          "name": "石口 慶多  兵",
+          "score": "87.79",
+          "class": "A1",
+          "style": "両",
+          "line": "",
+          "pref": "庫"
+        },
+        {
+          "number": "6",
+          "name": "田中 俊充  福",
+          "score": "84.76",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "井"
+        },
+        {
+          "number": "7",
+          "name": "安東 宏高  大",
+          "score": "83.26",
+          "class": "A1",
+          "style": "追",
+          "line": "",
+          "pref": "分"
+        }
+      ]
+    }
+  ],
   "predictions": [],
   "results": [],
-  "status": "データ取得元の設定待ち"
+  "errors": [
+    "HTTP Error 404: Not Found"
+  ]
 }
