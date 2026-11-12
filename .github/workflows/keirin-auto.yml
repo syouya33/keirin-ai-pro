@@ -3,7 +3,7 @@ name: 競輪AI 自動更新
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 12 * * *'
 
 permissions:
   contents: read
@@ -20,6 +20,5 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 動作確認
-        run: |
-          python -c "print('競輪AI 自動実行の準備完了')"
+      - name: 競輪AIを実行
+        run: python keirin_auto.py
